@@ -4,13 +4,13 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java Back-End Eğitiminde olu�
 
 ![Projemiz](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 
-= Installation
+=Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 > git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 
-= Usage
+=Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -19,11 +19,11 @@ Linux için:
 > cd kodluyoruzilkrepo
 > code .
 
-= Contributing
+=Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-= Licence
+=Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
